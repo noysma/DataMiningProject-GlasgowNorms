@@ -1,6 +1,7 @@
 # DataMining-FirstPart
 
 Group members:
+- [Ismaele Gorgoglione](https://github.com/noysma)
 - [Federica Altavilla](https://github.com/federicaaltavilla)
 - [Aura Petrucci](https://github.com/aurapetrucci)
 - [Salvatore Giovino](https://github.com/SalvoGiovi)
